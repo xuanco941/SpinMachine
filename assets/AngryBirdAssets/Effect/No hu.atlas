@@ -1,0 +1,48 @@
+
+No hu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+broken_glass
+  rotate: false
+  xy: 2, 1277
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+broken_glass_2
+  rotate: false
+  xy: 2, 555
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+broken_glass_3
+  rotate: true
+  xy: 1284, 717
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+feather
+  rotate: false
+  xy: 1284, 626
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+nohu
+  rotate: false
+  xy: 492, 305
+  size: 544, 248
+  orig: 544, 248
+  offset: 0, 0
+  index: -1
+red-bird
+  rotate: false
+  xy: 2, 2
+  size: 488, 551
+  orig: 488, 551
+  offset: 0, 0
+  index: -1

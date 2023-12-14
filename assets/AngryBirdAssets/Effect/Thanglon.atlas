@@ -1,0 +1,83 @@
+
+Thanglon.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_thanglon_1
+  rotate: false
+  xy: 2, 1434
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_10
+  rotate: false
+  xy: 1220, 210
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_2
+  rotate: false
+  xy: 2, 822
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_3
+  rotate: false
+  xy: 611, 1434
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_4
+  rotate: false
+  xy: 2, 210
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_5
+  rotate: false
+  xy: 611, 822
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_6
+  rotate: false
+  xy: 1220, 1434
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_7
+  rotate: false
+  xy: 611, 210
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_8
+  rotate: false
+  xy: 1220, 822
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+effect_thanglon_9
+  rotate: false
+  xy: 1829, 1434
+  size: 607, 610
+  orig: 607, 610
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: false
+  xy: 2, 2
+  size: 617, 206
+  orig: 617, 206
+  offset: 0, 0
+  index: -1

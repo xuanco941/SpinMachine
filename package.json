@@ -1,0 +1,10 @@
+{
+  "name": "AngryBird",
+  "uuid": "31e7de74-9fc6-4a12-a1ba-0bf854b3c6ca",
+  "creator": {
+    "version": "3.8.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.11"
+  }
+}

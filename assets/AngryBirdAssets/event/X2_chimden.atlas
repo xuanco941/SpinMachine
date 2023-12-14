@@ -1,0 +1,13 @@
+
+X2_chimden.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chimdien_Image/Effect_x2chimden/x2_chimden
+  rotate: false
+  xy: 2, 2
+  size: 683, 430
+  orig: 683, 430
+  offset: 0, 0
+  index: -1

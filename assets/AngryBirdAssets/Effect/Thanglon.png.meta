@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.26",
+  "importer": "image",
+  "imported": true,
+  "uuid": "453ff993-51c7-4870-bc1f-d6dcae209e81",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "453ff993-51c7-4870-bc1f-d6dcae209e81@6c48a",
+      "displayName": "Thanglon",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "453ff993-51c7-4870-bc1f-d6dcae209e81",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "453ff993-51c7-4870-bc1f-d6dcae209e81@f9941",
+      "displayName": "Thanglon",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimType": "auto",
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -840.5,
+        "offsetY": 16.5,
+        "trimX": 6,
+        "trimY": 5,
+        "width": 2403,
+        "height": 2005,
+        "rawWidth": 4096,
+        "rawHeight": 2048,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -1201.5,
+            -1002.5,
+            0,
+            1201.5,
+            -1002.5,
+            0,
+            -1201.5,
+            1002.5,
+            0,
+            1201.5,
+            1002.5,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            6,
+            2043,
+            2409,
+            2043,
+            6,
+            38,
+            2409,
+            38
+          ],
+          "nuv": [
+            0.00146484375,
+            0.0185546875,
+            0.588134765625,
+            0.0185546875,
+            0.00146484375,
+            0.99755859375,
+            0.588134765625,
+            0.99755859375
+          ],
+          "minPos": [
+            -1201.5,
+            -1002.5,
+            0
+          ],
+          "maxPos": [
+            1201.5,
+            1002.5,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "453ff993-51c7-4870-bc1f-d6dcae209e81@6c48a",
+        "atlasUuid": ""
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "hasAlpha": true,
+    "fixAlphaTransparencyArtifacts": false,
+    "redirect": "453ff993-51c7-4870-bc1f-d6dcae209e81@f9941"
+  }
+}

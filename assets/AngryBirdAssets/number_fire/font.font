@@ -1,0 +1,16 @@
+<font>
+  <creation>
+    <sourceFont>font</sourceFont>
+    <sourceFontSize>-48</sourceFontSize>
+    <startChar>33</startChar>
+    <endChar>45</endChar>
+  </creation>
+  <generated>
+    <map>system/fonts/font.dds</map>
+    <mapDimensions>79 239</mapDimensions>
+    <maxWidth>30</maxWidth>
+    <height>51</height>
+    <uvs>000200c200410-1b000200-3000200230002004b00150023002200-30002007100020097001900490019006f002e0023</uvs>
+    <widths>0010000c001e001100150017001d001500190016001a001a</widths>
+  </generated>
+</font>

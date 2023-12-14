@@ -1,0 +1,90 @@
+
+icon_huvang.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as1
+  rotate: false
+  xy: 131, 10
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as2
+  rotate: false
+  xy: 388, 145
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as3
+  rotate: false
+  xy: 486, 145
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as4
+  rotate: false
+  xy: 584, 145
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as5
+  rotate: false
+  xy: 682, 145
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as6
+  rotate: false
+  xy: 780, 145
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+as7
+  rotate: false
+  xy: 878, 145
+  size: 96, 89
+  orig: 96, 89
+  offset: 0, 0
+  index: -1
+bird
+  rotate: false
+  xy: 2, 101
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 144, 101
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+set
+  rotate: false
+  xy: 286, 130
+  size: 100, 104
+  orig: 100, 104
+  offset: 0, 0
+  index: -1
+set2
+  rotate: true
+  xy: 2, 2
+  size: 97, 127
+  orig: 97, 127
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 229, 57
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1

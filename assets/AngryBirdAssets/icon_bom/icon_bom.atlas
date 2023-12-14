@@ -1,0 +1,97 @@
+
+icon_bom.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 1522, 69
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+bird2
+  rotate: false
+  xy: 1664, 69
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+lua
+  rotate: false
+  xy: 2, 2
+  size: 55, 47
+  orig: 55, 47
+  offset: 0, 0
+  index: -1
+no1
+  rotate: false
+  xy: 2, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no10
+  rotate: false
+  xy: 1370, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no2
+  rotate: false
+  xy: 154, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no3
+  rotate: false
+  xy: 306, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no4
+  rotate: false
+  xy: 458, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no5
+  rotate: false
+  xy: 610, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no6
+  rotate: false
+  xy: 762, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no7
+  rotate: false
+  xy: 914, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no8
+  rotate: false
+  xy: 1066, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+no9
+  rotate: false
+  xy: 1218, 51
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
